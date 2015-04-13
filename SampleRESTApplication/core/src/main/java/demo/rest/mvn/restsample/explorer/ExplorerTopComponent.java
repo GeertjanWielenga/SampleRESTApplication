@@ -21,9 +21,6 @@ import org.openide.util.NbBundle;
 import org.openide.windows.TopComponent;
 import org.openide.util.NbBundle.Messages;
 
-/**
- * Top component which displays something.
- */
 @ConvertAsProperties(
         dtd = "-//demo.rest.mvn.restsample.explorer//Explorer//EN",
         autostore = false

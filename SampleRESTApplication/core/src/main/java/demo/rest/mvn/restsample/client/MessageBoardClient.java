@@ -10,10 +10,6 @@ import java.lang.reflect.Type;
 import java.util.List;
 import demo.rest.mvn.restsample.Message;
 
-/**
- *
- * @author lukas
- */
 public class MessageBoardClient {
 
     public MessageBoardClient() {

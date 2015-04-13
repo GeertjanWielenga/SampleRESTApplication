@@ -17,10 +17,6 @@ import org.openide.util.lookup.Lookups;
 import org.openide.windows.TopComponent;
 import org.openide.windows.WindowManager;
 
-/**
- *
- * @author lukas
- */
 public class MsgChildFactory extends ChildFactory<Message> {
 
     private List<Message> msgs;
