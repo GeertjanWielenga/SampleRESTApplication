@@ -9,3 +9,5 @@ the "Web Services" category of the New Project dialog in NetBeans IDE, which
 the client has been built to consume.
 
 ![Alt text](/screenshots/source.png?raw=true)
+
+Further details: https://blogs.oracle.com/geertjan/entry/sample_rest_application
